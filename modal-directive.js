@@ -7,7 +7,8 @@ Prerequisites:
  - styleSheetFactory (https://github.com/bklik/styleSheetFactory)
 
 Description:
-Create a popup positioned under the given element.
+Create a modal that overlays the webpage, and positions a panel to the
+center of the screen.
 /**********************************************************************/
 angular.module('modal-directive', ['style-sheet-factory'])
 
