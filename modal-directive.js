@@ -4,7 +4,7 @@ Author: Brenton Klik
 
 Prerequisites:
  - AngularJS
- - styleSheetFactory (https://github.com/bklik/styleSheetFactory)
+ - style-sheet-factory (https://github.com/bklik/style-sheet-factory)
 
 Description:
 Create a modal that overlays the webpage, and positions a panel to the
